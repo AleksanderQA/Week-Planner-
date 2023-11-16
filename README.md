@@ -2,7 +2,7 @@
 
 # Devices:
 ## Samsung
-<ul>Galaxy S23 ultra</ul>
+<li>Galaxy S23 ultra</li>
 <ul></ul>
 <ul></ul>
 <ul></ul>
