@@ -1,5 +1,10 @@
 # Android Week Planner crashlytics
 
 # Devices:
-## Samsung galaxy S23 ultra
+## Samsung
+<ul>Galaxy S23 ultra</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
 ## 
