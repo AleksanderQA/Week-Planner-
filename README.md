@@ -1,2 +1,3 @@
 # Week-Planner
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/8a766135-cf05-42f0-ad8f-5f1e10dd348b)
+
+![1](https://github.com/UserQA07/Week-Planner-/assets/144763744/fa4b1c2c-4b31-4b85-a03a-5bc338382695)
