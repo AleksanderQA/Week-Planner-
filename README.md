@@ -1,3 +1,8 @@
+# Android Week Planner crashlytics
+
+# Devices:
+## Samsung galaxy 
+
 <details>
   
  <summary>
