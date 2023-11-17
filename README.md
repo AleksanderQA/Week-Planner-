@@ -1,7 +1,7 @@
 # Android Week Planner crashlytics
 
 
-# ![Android_robot svg](https://github.com/UserQA07/Week-Planner-/assets/144763744/5613d4b9-b88f-4c1f-84d3-6af9dae0e2ac)
+![Android_robot svg](https://github.com/UserQA07/Week-Planner-/assets/144763744/5613d4b9-b88f-4c1f-84d3-6af9dae0e2ac)
 
 
 ![Untitled](https://github.com/UserQA07/Week-Planner-/assets/144763744/6d7ad1b4-ec8c-4413-99fc-eb4b749e5be7)
