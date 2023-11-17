@@ -10,21 +10,20 @@
 
 
  <details>
-  <summary> ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/86503a3c-4de2-4094-94f3-036c2d9755e2)
-  </summary>
+  <summary>Android 13</summary>
    <ul>
-<li> Galaxy S23 Ultra -  events</li>     
-<li>Redmi Note 11 Pro -  events</li>
-<li>Galaxy Z Flip4 - events</li>
-<li>Galaxy A53 5G -  events</li>
-<li>Galaxy M32 -  events</li>
-<li>Galaxy S23 FE -  events</li>
-<li>Galaxy S10 Lite -  events</li>
-<li>Redmi Note 11 Pro 5G -  events</li>
-<li>Galaxy A53 5G -  events</li>
-<li>Galaxy S21+ 5G -  events</li>
-<li>Galaxy Z Flip3 5G -  events</li>
-<li>Redmi Note 10 Pro -  events</li>
+<li> [Galaxy S23 Ultra](https://github.com/UserQA07/Week-Planner-/assets/144763744/ce059f48-e92c-4b81-95d0-7ce1de9f43e0) </li>     
+<li>Redmi Note 11 Pro </li>
+<li>Galaxy Z Flip4 </li>
+<li>Galaxy A53 5G </li>
+<li>Galaxy M32 </li>
+<li>Galaxy S23 FE </li>
+<li>Galaxy S10 Lite </li>
+<li>Redmi Note 11 Pro 5G </li>
+<li>Galaxy A53 5G </li>
+<li>Galaxy S21+ 5G </li>
+<li>Galaxy Z Flip3 5G </li>
+<li>Redmi Note 10 Pro </li>
 <li>Galaxy A34 5G - </li>
 <li></li>
 <li>Motorola Razr 2023</li>
@@ -80,6 +79,10 @@
 <li></li>
   </ul>
 </details>
+
+
+
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/ce059f48-e92c-4b81-95d0-7ce1de9f43e0)
 
 
 
