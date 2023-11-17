@@ -68,7 +68,7 @@
 
 </details>
 
-[#ultra](https://github.com/UserQA07/Week-Planner-/assets/144763744/7d15a213-d7c0-48c8-b57c-63aa6c839ce0)
+![](https://github.com/UserQA07/Week-Planner-/assets/144763744/64ee1ac1-92f0-4b43-81bc-ef057b686725)](#ultra)
 
 
 
