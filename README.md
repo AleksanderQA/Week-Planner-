@@ -18,7 +18,8 @@
 
   - Galaxy S23 Ultra
     
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/0fa89e56-b7e7-41f3-b851-84aca2acdb63)
+
 
 <details>
  <summary>Text</summary>
