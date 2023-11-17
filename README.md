@@ -1,4 +1,4 @@
-# Android Week Planner crashlytics
+ __Android Week Planner crashlytics__
 
 
 ![Android_robot svg](https://github.com/UserQA07/Week-Planner-/assets/144763744/5613d4b9-b88f-4c1f-84d3-6af9dae0e2ac)
