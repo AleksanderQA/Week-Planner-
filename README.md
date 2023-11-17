@@ -29,6 +29,7 @@
 ## Session: 65576CCF036A0001693CFEA1C2636844_DNE_0_v2
 ## Date: Fri Nov 17 2023 15:42:19 GMT+0200 (Eastern European Standard Time)
 
+
 # Fatal Exception: java.lang.RuntimeException: Unable to stop activity {com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity}: io.realm.exceptions.RealmFileException: Failed to open file at path '/data/data/com.weeklyplannerapp.weekplan/17.11.2023 16:42': parent directory does not exist (/data/data/com.weeklyplannerapp.weekplan/17.11.2023 16:42) in /tmp/realm-java/realm/realm-library/src/main/cpp/io_realm_internal_OsSharedRealm.cpp line 404 Kind: NOT_FOUND.
        at android.app.ActivityThread.callActivityOnStop(ActivityThread.java:5843)
        at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:5809)
