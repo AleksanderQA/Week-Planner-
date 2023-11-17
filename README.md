@@ -2511,7 +2511,7 @@ queued-work-looper:
 
   - Redmi Note 10 Pro
 
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/a435ca37-7623-44d8-96f7-01746ae3f413)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/2f446fbf-0be6-4f9b-ad52-afce643b66bc)
 
 <details>
  <summary>Text</summary>
