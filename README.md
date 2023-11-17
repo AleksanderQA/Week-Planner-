@@ -12,7 +12,7 @@
  <details>
   <summary>Android 13</summary>
    <ul>
-<li><a href=Galaxy S23 Ultra"></a>Galaxy S23 Ultra</li>     
+[Galaxy S23 Ultra](#)   
 <li>Redmi Note 11 Pro </li>
 <li>Galaxy Z Flip4 </li>
 <li>Galaxy A53 5G </li>
@@ -33,7 +33,7 @@
 <li>Note 30 Pro</li>
 <li>Galaxy Tab A8</li>
    </ul>
-  </details>
+</details>
     
 <details>
   <summary>Android 12</summary>
