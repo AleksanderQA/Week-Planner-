@@ -12,7 +12,7 @@
  <details>
   <summary>Android 13</summary>
    <ul>
-<li> [Galaxy S23 Ultra](https://github.com/UserQA07/Week-Planner-/assets/144763744/ce059f48-e92c-4b81-95d0-7ce1de9f43e0) </li>     
+<li><a href=Galaxy S23 Ultra"></a>Galaxy S23 Ultra</li>     
 <li>Redmi Note 11 Pro </li>
 <li>Galaxy Z Flip4 </li>
 <li>Galaxy A53 5G </li>
