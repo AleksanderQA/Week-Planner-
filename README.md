@@ -7,7 +7,7 @@
 <details>
   <summary>Android 13</summary>
 
-  - [Galaxy S23 Ultra](<a href="#Ultra"</a>)
+  - [Galaxy S23 Ultra](#)
   - [Ссылка 2](ссылка2)
   - [Ссылка 3](ссылка3)
   - [Ссылка 4](ссылка4)
