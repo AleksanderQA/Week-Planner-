@@ -2146,6 +2146,7 @@ queued-work-looper:
 
     
   - Redmi Note 11 Pro 5G
+
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/5ba7a7c8-93f4-4fd0-a565-2589806ffddd)
 
 <details>
