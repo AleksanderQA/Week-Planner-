@@ -2,7 +2,16 @@
  ___
 
 
-![Android_robot svg](https://github.com/UserQA07/Week-Planner-/assets/144763744/5613d4b9-b88f-4c1f-84d3-6af9dae0e2ac)
+# ![Android_robot svg](https://github.com/UserQA07/Week-Planner-/assets/144763744/5613d4b9-b88f-4c1f-84d3-6af9dae0e2ac)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/15a70dde-1ae8-46a9-b673-d2b842cf9844)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9285a8ae-1f77-47eb-8297-9fbf90873140)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9719cde5-c799-46da-a896-0c2004b4f414)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/89e3629f-d356-447d-9a5c-a32318a35c80)
+
+
+
+
+
 
 <details>
   <summary>Android 13</summary>
