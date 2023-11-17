@@ -7,79 +7,18 @@
 <details>
   <summary>Android 13</summary>
 
-  - [Galaxy S23 Ultra](#)
-  - [Ссылка 2](ссылка2)
-  - [Ссылка 3](ссылка3)
-  - [Ссылка 4](ссылка4)
-  - [Ссылка 5](ссылка5)
-  - [Ссылка 6](ссылка6)
-  - [Ссылка 7](ссылка7)
-  - [Ссылка 8](ссылка8)
-  - [Ссылка 9](ссылка9)
-  - [Ссылка 10](ссылка10)
-
-</details>
+  - [Galaxy S23 Ultra](ссылка)
+    ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)
 
 <details>
-  <summary>Android 12</summary>
-
-  - [Ссылка 1](ссылка1)
-  - [Ссылка 2](ссылка2)
-  - [Ссылка 3](ссылка3)
-  - [Ссылка 4](ссылка4)
-  - [Ссылка 5](ссылка5)
-  - [Ссылка 6](ссылка6)
-  - [Ссылка 7](ссылка7)
-  - [Ссылка 8](ссылка8)
-  - [Ссылка 9](ссылка9)
-  - [Ссылка 10](ссылка10)
-
-</details>
-
-<details>
-  <summary>Android 11</summary>
-
-  - [Ссылка 1](ссылка1)
-  - [Ссылка 2](ссылка2)
-  - [Ссылка 3](ссылка3)
-  - [Ссылка 4](ссылка4)
-  - [Ссылка 5](ссылка5)
-  - [Ссылка 6](ссылка6)
-  - [Ссылка 7](ссылка7)
-  - [Ссылка 8](ссылка8)
-  - [Ссылка 9](ссылка9)
-  - [Ссылка 10](ссылка10)
-
-</details>
-
-<details>
-  <summary>Android 10</summary>
-
-  - [Ссылка 1](ссылка1)
-  - [Ссылка 2](ссылка2)
-  - [Ссылка 3](ссылка3)
-  - [Ссылка 4](ссылка4)
-  - [Ссылка 5](ссылка5)
-  - [Ссылка 6](ссылка6)
-  - [Ссылка 7](ссылка7)
-  - [Ссылка 8](ссылка8)
-  - [Ссылка 9](ссылка9)
-  - [Ссылка 10](ссылка10)
-
-</details>
-
-
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)
-
-<details>
- <summary>TXT</summary>
- # Crashlytics - Stack trace
-# Application: com.weeklyplannerapp.weekplan
-# Platform: android
-# Version: 7.97 (82)
-# Issue: 72bd018209352c1b39c33f10f34b265c
-# Session: 65576CCF036A0001693CFEA1C2636844_DNE_0_v2
-# Date: Fri Nov 17 2023 15:42:19 GMT+0200 (Eastern European Standard Time)
+ <summary>Text</summary>
+  Crashlytics - Stack trace
+## Application: com.weeklyplannerapp.weekplan
+## Platform: android
+## Version: 7.97 (82)
+## Issue: 72bd018209352c1b39c33f10f34b265c
+## Session: 65576CCF036A0001693CFEA1C2636844_DNE_0_v2
+## Date: Fri Nov 17 2023 15:42:19 GMT+0200 (Eastern European Standard Time)
 
 # Fatal Exception: java.lang.RuntimeException: Unable to stop activity {com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity}: io.realm.exceptions.RealmFileException: Failed to open file at path '/data/data/com.weeklyplannerapp.weekplan/17.11.2023 16:42': parent directory does not exist (/data/data/com.weeklyplannerapp.weekplan/17.11.2023 16:42) in /tmp/realm-java/realm/realm-library/src/main/cpp/io_realm_internal_OsSharedRealm.cpp line 404 Kind: NOT_FOUND.
        at android.app.ActivityThread.callActivityOnStop(ActivityThread.java:5843)
@@ -465,6 +404,70 @@
        at com.google.firebase.concurrent.CustomThreadFactory.lambda$newThread$0(CustomThreadFactory.java:162)
        at java.lang.Thread.run(Thread.java:1012)
 </details>
+
+
+  - [Ссылка 2](ссылка2)
+  - [Ссылка 3](ссылка3)
+  - [Ссылка 4](ссылка4)
+  - [Ссылка 5](ссылка5)
+  - [Ссылка 6](ссылка6)
+  - [Ссылка 7](ссылка7)
+  - [Ссылка 8](ссылка8)
+  - [Ссылка 9](ссылка9)
+  - [Ссылка 10](ссылка10)
+
+</details>
+
+<details>
+  <summary>Android 12</summary>
+
+  - [Ссылка 1](ссылка1)
+  - [Ссылка 2](ссылка2)
+  - [Ссылка 3](ссылка3)
+  - [Ссылка 4](ссылка4)
+  - [Ссылка 5](ссылка5)
+  - [Ссылка 6](ссылка6)
+  - [Ссылка 7](ссылка7)
+  - [Ссылка 8](ссылка8)
+  - [Ссылка 9](ссылка9)
+  - [Ссылка 10](ссылка10)
+
+</details>
+
+<details>
+  <summary>Android 11</summary>
+
+  - [Ссылка 1](ссылка1)
+  - [Ссылка 2](ссылка2)
+  - [Ссылка 3](ссылка3)
+  - [Ссылка 4](ссылка4)
+  - [Ссылка 5](ссылка5)
+  - [Ссылка 6](ссылка6)
+  - [Ссылка 7](ссылка7)
+  - [Ссылка 8](ссылка8)
+  - [Ссылка 9](ссылка9)
+  - [Ссылка 10](ссылка10)
+
+</details>
+
+<details>
+  <summary>Android 10</summary>
+
+  - [Ссылка 1](ссылка1)
+  - [Ссылка 2](ссылка2)
+  - [Ссылка 3](ссылка3)
+  - [Ссылка 4](ссылка4)
+  - [Ссылка 5](ссылка5)
+  - [Ссылка 6](ссылка6)
+  - [Ссылка 7](ссылка7)
+  - [Ссылка 8](ссылка8)
+  - [Ссылка 9](ссылка9)
+  - [Ссылка 10](ссылка10)
+
+</details>
+
+
+
 
 
 
