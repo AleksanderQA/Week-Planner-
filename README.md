@@ -5,7 +5,7 @@
 
 
 ![Untitled](https://github.com/UserQA07/Week-Planner-/assets/144763744/6d7ad1b4-ec8c-4413-99fc-eb4b749e5be7)
-# ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3b8ff8be-79d6-4710-a26c-5831453b07f6)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3b8ff8be-79d6-4710-a26c-5831453b07f6)
 
 
 
