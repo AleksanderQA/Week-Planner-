@@ -69,7 +69,7 @@
 </details>
 
 
-![<a href="#Ultra">Ultra</a>](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)](#ultra)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)]
 
 <details>
  <summary>TXT</summary>
