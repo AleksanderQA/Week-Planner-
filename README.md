@@ -70,8 +70,10 @@
 
 
 [![Description of the image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)](#ultra)
+
 <details>
- <summary># Crashlytics - Stack trace
+ <summary>TXT</summary>
+ # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
 # Version: 7.97 (82)
@@ -461,15 +463,8 @@ Firebase Blocking Thread #2:
        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1131)
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at com.google.firebase.concurrent.CustomThreadFactory.lambda$newThread$0(CustomThreadFactory.java:162)
-       at java.lang.Thread.run(Thread.java:1012)</summary>
+       at java.lang.Thread.run(Thread.java:1012)
 </details>
-
-
-
-
-
-
-
 
 
 
