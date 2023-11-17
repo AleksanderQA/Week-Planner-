@@ -417,7 +417,8 @@
        at java.lang.Thread.run(Thread.java:1012)
 </details>
 
-# ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/51587895-8c05-4efd-8260-3cdd1e6b919e)
+
+![124124](https://github.com/UserQA07/Week-Planner-/assets/144763744/2dd026d0-d28a-4173-8be0-c365b820040d)
 
 
 <details>
@@ -910,7 +911,8 @@
 </details>
 
 
-![124124](https://github.com/UserQA07/Week-Planner-/assets/144763744/c28fc948-a63a-47a3-b8d5-2ffee868db60)
+![banner](https://github.com/UserQA07/Week-Planner-/assets/144763744/ea9da887-5820-4cd9-93a5-5acfe45cf452)
+
 
 
 <details>
