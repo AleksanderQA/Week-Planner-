@@ -10,7 +10,7 @@
 
 
  <details>
-  <summary>[![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/86503a3c-4de2-4094-94f3-036c2d9755e2)
+  <summary> ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/86503a3c-4de2-4094-94f3-036c2d9755e2)
   </summary>
    <ul>
 <li> Galaxy S23 Ultra -  events</li>     
