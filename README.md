@@ -12,7 +12,7 @@
  <details>
   <summary>Android 13</summary>
    <ul>
-[Galaxy S23 Ultra](#)   
+<li>Galaxy S23 Ultra</li>   
 <li>Redmi Note 11 Pro </li>
 <li>Galaxy Z Flip4 </li>
 <li>Galaxy A53 5G </li>
