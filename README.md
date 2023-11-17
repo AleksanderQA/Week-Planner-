@@ -7,7 +7,7 @@
 <details>
   <summary>Android 13</summary>
 
-  - [Galaxy S23 Ultra](<a href=“#ultra”>)
+  - [Galaxy S23 Ultra](<a href="#Ultra"</a>)
   - [Ссылка 2](ссылка2)
   - [Ссылка 3](ссылка3)
   - [Ссылка 4](ссылка4)
@@ -69,7 +69,7 @@
 </details>
 
 
-[![Description of the image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)](#ultra)
+![<a href="#Ultra">Ultra</a>](https://github.com/UserQA07/Week-Planner-/assets/144763744/3ba460a3-eb95-40e5-8dca-f86e565206f9)](#ultra)
 
 <details>
  <summary>TXT</summary>
