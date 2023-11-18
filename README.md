@@ -9183,8 +9183,19 @@ RealmFinalizingDaemon:
 
 
 <details>
+
+ <details>
+
+<summary>All devices</summary>
+
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/87364ad3-df31-4bec-b5c7-c1934106a354)
+
+   
+  </details>
  
   <summary>Android 11</summary>
+  
+ 
 
   - [Ссылка 1](ссылка1)
   - [Ссылка 2](ссылка2)
