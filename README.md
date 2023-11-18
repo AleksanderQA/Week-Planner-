@@ -7307,7 +7307,8 @@ RealmFinalizingDaemon:
  
 <summary>All devices</summary>
 
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/d6bce162-9f2b-4320-9065-f7ac160a2c79)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/a1371bbd-cc61-407e-9f3e-838e1db81dab)
+
 
 </details>
 
