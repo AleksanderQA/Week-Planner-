@@ -6580,7 +6580,7 @@ RealmFinalizingDaemon:
  
   <details>
    
-   <summary>Galaxy S20</summary> :iphone:
+   <summary>Galaxy S20</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/1ae90cbd-e989-4cd9-9e9c-9dd2a1d480c3)
 
@@ -7302,14 +7302,16 @@ RealmFinalizingDaemon:
 
 <details>
  
-  <summary>Android 12</summary> :iphone:
+<summary>Android 12</summary>
 
 <details>
+ 
 <summary>All devices</summary>
  
  ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/26cc6fb5-6b84-4dc4-8b94-c07abe0a0225)
 
 </details>
+
 <details>
 
 <summary>Galaxy S21+ 5G</summary>
