@@ -9052,7 +9052,23 @@ GmsDynamite:
 </details>
  </details>
 
-   
+
+<details>
+ 
+  <summary>Android 13</summary>
+
+  <details>
+ 
+<summary>All devices</summary>
+
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9b1903c3-c2a1-4d66-a48e-eba4c0565dd9)
+
+  </details>
+ 
+<details>  
+
+ 
+
 
 
  
