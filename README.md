@@ -15,19 +15,21 @@
 
 <details>
   <summary>Android 13</summary>
-<details>  
 
-<details>
+  <details>
  
 <summary>All devices</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9b1903c3-c2a1-4d66-a48e-eba4c0565dd9)
 
+  </details>
  
-</details>
+<details>  
+
+
 
    
-   *<summary>Galaxy S23 Ultra</summary>*
+   <summary>Galaxy S23 Ultra</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/0fa89e56-b7e7-41f3-b851-84aca2acdb63)
 
