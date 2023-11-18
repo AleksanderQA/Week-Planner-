@@ -8540,7 +8540,8 @@ AnimRunnerThread:
  </details>
 
 <details>   
-    <summary>Redmi Note 9S</summary> 
+ 
+   <summary>Redmi Note 9S</summary> 
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/128b6b2b-9a4f-4418-9e5d-86dccf424c38)
 
@@ -8548,7 +8549,7 @@ AnimRunnerThread:
  
    *<summary>Details</summary>*
 
-    # Crashlytics - Stack trace
+   # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
 # Version: 7.97 (82)
@@ -8834,7 +8835,7 @@ Firebase Background Thread #3:
  
    *<summary>Details</summary>*
 
-    # Crashlytics - Stack trace
+   # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
 # Version: 7.97 (82)
@@ -9182,6 +9183,8 @@ PlayBillingLibrary-2:
 </details>
  </details>
   </details>
+
+  
 <details>
   <summary>Android 11</summary>
 
