@@ -14,7 +14,7 @@
 
 
 <details>
-  <summary>Android 13</summary>
+  <summary>Android 13</summary> :iphone:
 
   <details>
  
@@ -1328,7 +1328,7 @@
 
 
  <details>
-   <summary>Redmi Note 11 Pro</summary>
+   <summary>Redmi Note 11 Pro</summary> :iphone:
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/776f24f5-6afd-4ae0-a97f-ae4756984d66)
 
@@ -2174,7 +2174,7 @@ queued-work-looper:
 
 
   <details>   
-    <summary>Redmi Note 11 Pro 5G</summary>
+    <summary>Redmi Note 11 Pro 5G</summary> :iphone:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/ff8a189c-5a06-454e-8c15-13551d8704c9)
 
@@ -2542,7 +2542,7 @@ queued-work-looper:
  </details>
 
  <details>
-    <summary>Redmi Note 10 Pro</summary>
+    <summary>Redmi Note 10 Pro</summary> :iphone:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/5341a189-ca1b-43e3-85e3-81a7ef5feae3)
 
@@ -2979,7 +2979,7 @@ queued-work-looper:
 
 <details>
   
-  <summary>Galaxy Z Flip5</summary>
+  <summary>Galaxy Z Flip5</summary> :iphone:
   
   ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/f6b8c576-cccf-4363-8229-a4f15a5bd01e)
     
@@ -4248,7 +4248,7 @@ queued-work-looper-data:
 
   <details>
   
-   <summary>Redmi Note 11S</summary>
+   <summary>Redmi Note 11S</summary> :iphone:
    
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/09fbbbec-b6f4-4dcf-a738-6d1a052efc5c)
 
@@ -4654,7 +4654,7 @@ queued-work-looper-data:
 
   <details>
    
-   <summary>Galaxy S21 Ultra 5G</summary>
+   <summary>Galaxy S21 Ultra 5G</summary> :iphone:
 
    ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/3a1f9276-fd74-4482-9e73-66b88cb8a365)
 
@@ -4987,7 +4987,7 @@ queued-work-looper-data:
   
    <details>
     
-   <summary>Galaxy S21 Ultra 5G</summary>
+   <summary>Galaxy S21 Ultra 5G</summary> :iphone:
    
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/ea5e946f-839e-4078-a183-0930823527fd)
 
@@ -6020,7 +6020,7 @@ queued-work-looper-data:
 
   <details>
 
-<summary>Galaxy S22 Ultra</summary>
+<summary>Galaxy S22 Ultra</summary> :iphone:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/176b5bf6-7e25-47b7-af88-9b1272866a0b)
 
@@ -6580,7 +6580,7 @@ RealmFinalizingDaemon:
  
   <details>
    
-   <summary>Galaxy S20</summary>
+   <summary>Galaxy S20</summary> :iphone:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/1ae90cbd-e989-4cd9-9e9c-9dd2a1d480c3)
 
@@ -7302,7 +7302,7 @@ RealmFinalizingDaemon:
 
 <details>
  
-  <summary>Android 12</summary>
+  <summary>Android 12</summary> :iphone:
 
 <details>
 <summary>All devices</summary>
@@ -8086,7 +8086,7 @@ RealmFinalizingDaemon:
 
 
 
-<summary>Poco X3 NFC</summary>
+<summary>Poco X3 NFC</summary> :iphone:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/e1a81ffd-3630-4412-a8ac-a0de03cda717)
 
@@ -8537,7 +8537,7 @@ RealmFinalizingDaemon:
 <details>
 
  
-  <summary>Redmi Note 9S</summary>
+  <summary>Redmi Note 9S</summary> :iphone:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9cca3d47-0e95-4a77-a473-bc8bb7942787)
 
@@ -8824,7 +8824,7 @@ RealmFinalizingDaemon:
 
  <details>
   
-   <summary>Infinix HOT 30i</summary>
+   <summary>Infinix HOT 30i :iphone:</summary> 
 
    ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/7aa25511-e340-44b3-8165-ae7cb3298873)
 
