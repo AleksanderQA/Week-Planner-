@@ -9177,18 +9177,16 @@ RealmFinalizingDaemon:
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
     
+ </details>
    </details>
-  </details>
 
 
 
 <details>
  
   <summary>Android 11</summary>
-
-</details>
   
- 
+</details>
 
   - [Ссылка 1](ссылка1)
   - [Ссылка 2](ссылка2)
