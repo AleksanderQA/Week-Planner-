@@ -16,14 +16,15 @@
 <details>
   <summary>Android 13</summary>
 <details>  
+
    
-   <summary>Galaxy S23 Ultra</summary>
+  <summary>Galaxy S23 Ultra</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/0fa89e56-b7e7-41f3-b851-84aca2acdb63)
 
 
 <details>
- <summary>Text</summary>
+ <summary>Stack trace</summary>
   Crashlytics - Stack trace
 ## Application: com.weeklyplannerapp.weekplan
 ## Platform: android
@@ -423,7 +424,7 @@
 
 
 <details>
- <summary>Text</summary>
+ <summary>Stack trace</summary>
  # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
@@ -917,7 +918,7 @@
 
 
 <details>
- <summary>Text</summary>
+ <summary>Stack trace</summary>
  # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
@@ -1317,7 +1318,7 @@
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/776f24f5-6afd-4ae0-a97f-ae4756984d66)
 
 <details>
- <summary>Text</summary>
+ <summary>Stack trace</summary>
  # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
@@ -1695,7 +1696,7 @@ FinalizerWatchdogDaemon:
 
 
 <details>
- <summary>Text</summary>
+ <summary>Stack trace</summary>
  # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
@@ -2159,7 +2160,7 @@ queued-work-looper:
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/ff8a189c-5a06-454e-8c15-13551d8704c9)
 
 <details>
- <summary>Text</summary>
+ <summary>Stack trace</summary>
  # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
@@ -2526,7 +2527,7 @@ queued-work-looper:
 
 
 <details>
- <summary>Text</summary>
+ <summary>Stack trace</summary>
  # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
@@ -2960,7 +2961,7 @@ queued-work-looper:
   ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/f6b8c576-cccf-4363-8229-a4f15a5bd01e)
     
   <details>
-    <summary>Text</summary>
+    <summary>Stack trace</summary>
     # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
