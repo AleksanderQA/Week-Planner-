@@ -7301,7 +7301,7 @@ RealmFinalizingDaemon:
 
 
 <details>
-  <summary>Android 12</summary>
+  <summary>Android 12</summary><br>
 
   <details>
  
@@ -9188,7 +9188,7 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
   
 <details>
  
-  <summary>Android 11</summary>
+  <summary>Android 11</summary><br>
 
   <details>
  
@@ -9828,7 +9828,7 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
 
 <details>
  
-  <summary>Android 10</summary>
+  <summary>Android 10</summary><br>
 
   <details>
  
