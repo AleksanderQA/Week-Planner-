@@ -7598,13 +7598,13 @@ RealmFinalizingDaemon:
 </details>
 
   
-<details>
+ <details>
 
 <summary>Infinix HOT 30</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/f29784f9-8c81-45fd-af43-f775863760bc)
 
-<details>
+ <details>
 
 *<summary>Details</summary>*
 
@@ -7953,17 +7953,17 @@ RealmFinalizingDaemon:
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
  
-</details>
+ </details>
  
 </details>
 
-<details>
+ <details>
 
 <summary>Galaxy S21+ 5G</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/56b93708-94c9-4fdb-8857-fa88fc7fc2ed)
 
-<details>
+ <details>
 
 *<summary>Details</summary>*
 
@@ -8334,18 +8334,18 @@ RealmFinalizingDaemon:
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
  
-</details>
+ </details>
  
 </details>
 
 
-<details>
+ <details>
 
 <summary>Redmi Note 9</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/b46ad8df-a40a-402a-b485-7f0b40d4ab46)
 
-<details>
+ <details>
 
 *<summary>Details</summary>*
 
