@@ -9171,22 +9171,7 @@ Crashlytics: Stack Trace
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
     
-</details>
-</details>
-
-<details>
-  <summary>Android 11</summary>
-
-  - [Ссылка 1](ссылка1)
-  - [Ссылка 2](ссылка2)
-  - [Ссылка 3](ссылка3)
-  - [Ссылка 4](ссылка4)
-  - [Ссылка 5](ссылка5)
-  - [Ссылка 6](ссылка6)
-  - [Ссылка 7](ссылка7)
-  - [Ссылка 8](ссылка8)
-  - [Ссылка 9](ссылка9)
-  - [Ссылка 10](ссылка10)
+ </details>
 </details>
 
 
