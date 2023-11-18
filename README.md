@@ -8816,13 +8816,13 @@ Crashlytics: Stack Trace
 </details>
  
 
- <details>
+<details>
   
    <summary>Infinix HOT 30i</summary> 
 
    ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/7aa25511-e340-44b3-8165-ae7cb3298873)
 
-  <details>
+<details>
 
    *<summary>Details</summary>*
 
