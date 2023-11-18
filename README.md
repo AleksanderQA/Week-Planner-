@@ -7959,7 +7959,8 @@ RealmFinalizingDaemon:
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/ef13519f-5781-41aa-aace-de4ee8c186eb)
 
 <details>
- 
+
+   *<summary>Details</summary>* 
   
 </details>
  
