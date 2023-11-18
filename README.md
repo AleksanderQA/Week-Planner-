@@ -8068,10 +8068,11 @@ RealmFinalizingDaemon:
 
 *<summary>Details</summary>*
  
-</details>
 
+</details>
  
 </details>
+
   - [Ссылка 2](ссылка2)
   - [Ссылка 3](ссылка3)
   - [Ссылка 4](ссылка4)
@@ -8085,6 +8086,7 @@ RealmFinalizingDaemon:
 </details>
 
 <details>
+ 
   <summary>Android 11</summary>
 
   - [Ссылка 1](ссылка1)
