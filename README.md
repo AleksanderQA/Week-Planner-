@@ -7315,6 +7315,9 @@ RealmFinalizingDaemon:
 <details>
 
 <summary>Redmi Note 9S</summary>
+
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/2873f206-92d3-453d-a28a-f75c5155c760)
+
  
 </details>
   
