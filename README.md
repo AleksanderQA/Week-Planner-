@@ -7310,10 +7310,13 @@ RealmFinalizingDaemon:
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/7bb0dad3-9a2c-421a-80bb-51cbe6fe7ac5)
 
 
- </details>
+</details>
  
+<details>
 
-
+<summary>Redmi Note 9S</summary>
+ 
+</details>
   
 
 
