@@ -9177,8 +9177,9 @@ Crashlytics: Stack Trace
   </details>
 
 
- 
-<summary>Androi 11</summary>
+ <details>
+  
+<summary>Android 11</summary>
   
   1. [Ссылка 1](#)
   2. [Ссылка 2](#)
