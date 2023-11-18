@@ -9184,7 +9184,7 @@ RealmFinalizingDaemon:
 
 <details>
  
-  <summary>Androi 11</summary>
+<summary>Androi 11</summary>
   
   1. [Ссылка 1](#)
   2. [Ссылка 2](#)
