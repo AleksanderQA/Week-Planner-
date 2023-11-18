@@ -9832,14 +9832,11 @@ awaitEvenIfOnMainThread task continuation executor1:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/b9460b9b-5fe7-4622-b18e-b89abb40219b)
 
-
   </details>
+   </details>
  
 <details>  
 
-
-
-   
    <summary>P20</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/5e805642-b2f7-4681-b95e-65f17b63ea48)
@@ -10534,4 +10531,5 @@ pool-8-thread-1:
        at java.lang.Thread.run(Thread.java:929)
  
 </details>
+ </details>
 
