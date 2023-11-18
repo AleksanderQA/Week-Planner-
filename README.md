@@ -9055,13 +9055,14 @@ GmsDynamite:
 
 <details>
  
-  <summary>Android 13</summary>
+  <summary>Android 11</summary>
 
   <details>
  
 <summary>All devices</summary>
 
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9b1903c3-c2a1-4d66-a48e-eba4c0565dd9)
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/f57224ed-4cd2-4305-a2ed-1cb77abd5ce2)
+
 
   </details>
  
