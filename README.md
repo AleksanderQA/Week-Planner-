@@ -7298,6 +7298,19 @@ RealmFinalizingDaemon:
   </details>
  </details>
 </details>
+
+<details>
+  <summary>Android 12</summary>
+
+  <details>
+ 
+<summary>All devices</summary>
+
+![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/a5bb8efd-a93d-4cb7-b89b-b265917a529b)
+
+  </details>
+ 
+<details>  
  
 
 
