@@ -9519,7 +9519,8 @@ pool-10-thread-1:
  </details>
 
 details>   
-    <summary>Redmi 9A</summary> 
+
+   <summary>Redmi 9A</summary> 
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/d091239f-e136-45e8-9451-e9c5ad173646)
 
