@@ -8824,7 +8824,7 @@ RealmFinalizingDaemon:
 
  <details>
   
-   <summary>Infinix HOT 30i :iphone:</summary> 
+   <summary>Infinix HOT 30i</summary> 
 
    ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/7aa25511-e340-44b3-8165-ae7cb3298873)
 
@@ -8896,7 +8896,7 @@ RealmFinalizingDaemon:
        at java.lang.Daemons$Daemon.run(Daemons.java:145)
        at java.lang.Thread.run(Thread.java:1012)
 
- #FinalizerWatchdogDaemon:
+ # FinalizerWatchdogDaemon:
        at java.lang.Thread.sleep(Thread.java)
        at java.lang.Thread.sleep(Thread.java:450)
        at java.lang.Thread.sleep(Thread.java:355)
