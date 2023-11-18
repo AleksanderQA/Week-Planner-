@@ -9820,10 +9820,10 @@ awaitEvenIfOnMainThread task continuation executor1:
        at com.google.firebase.crashlytics.internal.common.BackgroundPriorityRunnable.run(BackgroundPriorityRunnable.java:1)
        at java.lang.Thread.run(Thread.java:923)
  
-</details>
- </details>
+  </details>
+   </details>
 
- <details>
+<details>
  
   <summary>Android 10</summary>
 
