@@ -1328,7 +1328,7 @@
 
 
  <details>
-   <summary>Redmi Note 11 Pro</summary> :iphone:
+   <summary>Redmi Note 11 Pro</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/776f24f5-6afd-4ae0-a97f-ae4756984d66)
 
@@ -2174,7 +2174,7 @@ queued-work-looper:
 
 
   <details>   
-    <summary>Redmi Note 11 Pro 5G</summary> :iphone:
+    <summary>Redmi Note 11 Pro 5G</summary> 
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/ff8a189c-5a06-454e-8c15-13551d8704c9)
 
@@ -2542,7 +2542,7 @@ queued-work-looper:
  </details>
 
  <details>
-    <summary>Redmi Note 10 Pro</summary> :iphone:
+    <summary>Redmi Note 10 Pro</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/5341a189-ca1b-43e3-85e3-81a7ef5feae3)
 
@@ -3668,7 +3668,7 @@ queued-work-looper:
        at java.lang.Daemons$Daemon.run(Daemons.java:140)
        at java.lang.Thread.run(Thread.java:1012)
 
-queued-work-looper-data:
+# queued-work-looper-data:
        at jdk.internal.misc.Unsafe.park(Unsafe.java)
        at java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
        at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
@@ -4248,7 +4248,7 @@ queued-work-looper-data:
 
   <details>
   
-   <summary>Redmi Note 11S</summary> :iphone:
+   <summary>Redmi Note 11S</summary> 
    
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/09fbbbec-b6f4-4dcf-a738-6d1a052efc5c)
 
@@ -8828,7 +8828,7 @@ RealmFinalizingDaemon:
 
    ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/7aa25511-e340-44b3-8165-ae7cb3298873)
 
-   <details>
+  <details>
 
    *<summary>Details</summary>*
 
@@ -9177,10 +9177,11 @@ RealmFinalizingDaemon:
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
     
- </details>
    </details>
+ </details>
 
 <details>
+ 
   <summary>Androi 11</summary>
   
   1. [Ссылка 1](#)
