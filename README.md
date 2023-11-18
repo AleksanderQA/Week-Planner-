@@ -8629,7 +8629,7 @@ GLThread 209745:
 
 <details>
  
-   <summary>Phone: Xiaomi 11 Lite 5G NE</summary>
+   <summary>Xiaomi 11 Lite 5G NE</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9eec3340-1926-4e16-8bc6-d004586f8c15)
 
