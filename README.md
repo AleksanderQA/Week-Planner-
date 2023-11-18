@@ -7304,13 +7304,6 @@ RealmFinalizingDaemon:
  
 <summary>Android 12</summary>
 
-<details>
- 
-<summary>All devices</summary>
- 
- ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/26cc6fb5-6b84-4dc4-8b94-c07abe0a0225)
-
-</details>
 
 <details>
 
@@ -7322,13 +7315,13 @@ RealmFinalizingDaemon:
 
 *<summary>Details</summary>*
 
-# Crashlytics - Stack trace
+Crashlytics: Stack Trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
 # Version: 7.97 (82)
 # Issue: e004ae243fcb695a9a1a005a3caf8763
 # Session: 654D32DB022300012EF274F23454FD50_DNE_0_v2
-# Date: Thu Nov 09 2023 22:46:04 GMT+0200 (Eastern European Standard Time)
+# Date: Thursday, November 9, 2023, 22:46:04 GMT+0200 (Eastern European Standard Time)
 
 # Fatal Exception: java.lang.RuntimeException: Unable to stop activity {com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity}: java.lang.RuntimeException: write() failed: No space left on device in /tmp/realm-java/realm/realm-library/src/main/cpp/io_realm_internal_OsSharedRealm.cpp line 404
        at android.app.ActivityThread.callActivityOnStop(ActivityThread.java:5697)
@@ -9184,7 +9177,6 @@ RealmFinalizingDaemon:
   </details>
 
 
-<details>
  
 <summary>Androi 11</summary>
   
