@@ -9529,7 +9529,7 @@ details>
  
    *<summary>Details</summary>*
 
-    # Crashlytics - Stack trace
+   # Crashlytics - Stack trace
 # Application: com.weeklyplannerapp.weekplan
 # Platform: android
 # Version: 7.97 (82)
@@ -9822,3 +9822,4 @@ awaitEvenIfOnMainThread task continuation executor1:
  
 </details>
  </details>
+  </details>
