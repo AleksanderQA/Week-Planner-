@@ -8347,7 +8347,7 @@ RealmFinalizingDaemon:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/b46ad8df-a40a-402a-b485-7f0b40d4ab46)
 
-<details>
+ <details>
 
 *<summary>Details</summary>*
 
@@ -8633,7 +8633,7 @@ RealmFinalizingDaemon:
        at android.opengl.GLSurfaceView$GLThread.guardedRun(GLSurfaceView.java:1505)
        at android.opengl.GLSurfaceView$GLThread.run(GLSurfaceView.java:1280)
  
-</details>
+ </details>
 
  
 </details>
