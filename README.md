@@ -1327,7 +1327,7 @@
  </details>
 
 
- <details>
+<details>
    <summary>Redmi Note 11 Pro</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/776f24f5-6afd-4ae0-a97f-ae4756984d66)
@@ -1707,6 +1707,7 @@
        at java.lang.Object.wait(Object.java)
        at java.lang.Object.wait(Object.java:442)
        at m.lk.run(:com.google.android.gms.dynamite_measurementdynamite@234414038@23.44.14 (190400-0):71)
+
 </details>
 
 ![Screenshot 2023-11-18 120323](https://github.com/UserQA07/Week-Planner-/assets/144763744/83e34f46-4cde-4834-ba2f-6d5a425804c8)
@@ -8079,8 +8080,6 @@ Crashlytics: Stack Trace
 
 <details>
 
-
-
 <summary>Poco X3 NFC</summary> :iphone:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/e1a81ffd-3630-4412-a8ac-a0de03cda717)
@@ -8813,8 +8812,8 @@ Crashlytics: Stack Trace
        at com.google.firebase.concurrent.CustomThreadFactory.lambda$newThread$0(CustomThreadFactory.java:162)
        at java.lang.Thread.run(Thread.java:1012)
  
-</details>
  </details>
+</details>
  
 
  <details>
@@ -9176,22 +9175,6 @@ Crashlytics: Stack Trace
 </details>
 
 
- <details>
-  
-<summary>Android 11</summary>
-  
-  1. [Ссылка 1](#)
-  2. [Ссылка 2](#)
-  3. [Ссылка 3](#)
-  4. [Ссылка 4](#)
-  5. [Ссылка 5](#)
-  6. [Ссылка 6](#)
-  7. [Ссылка 7](#)
-  8. [Ссылка 8](#)
-  9. [Ссылка 9](#)
-  10. [Ссылка 10](#)
-</details>
-   
 
 
 
