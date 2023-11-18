@@ -7316,7 +7316,7 @@ RealmFinalizingDaemon:
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/396f4445-b8a4-4405-91eb-4d7d410f38c4)
 
-</details>
+<details>
 
    <summary>Details</summary>
 
@@ -7592,7 +7592,8 @@ RealmFinalizingDaemon:
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at com.google.firebase.concurrent.CustomThreadFactory.lambda$newThread$0(CustomThreadFactory.java:162)
        at java.lang.Thread.run(Thread.java:1012)
-
+ </details>
+</details>
    
 
   
