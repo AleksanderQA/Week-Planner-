@@ -9518,7 +9518,7 @@ pool-10-thread-1:
 </details>
  </details>
 
-details>   
+<details>   
 
    <summary>Redmi 9A</summary> 
 
@@ -9822,4 +9822,4 @@ awaitEvenIfOnMainThread task continuation executor1:
  
 </details>
  </details>
-  </details>
+  
