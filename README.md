@@ -7599,15 +7599,13 @@ RealmFinalizingDaemon:
 
 <details>  
 
-
-
    
    <summary>Galaxy S21+ 5G</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/cee0609b-5293-4ad3-9952-bf9e8875414d)
 
 
-<details>
+ <details>
  
    *<summary>Details</summary>*
    
@@ -7996,7 +7994,7 @@ DefaultDispatcher-worker-1:
        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.java:225)
  
 </details>
-
+ </details>
 
 <details>
    <summary>Infinix HOT 30i</summary>
