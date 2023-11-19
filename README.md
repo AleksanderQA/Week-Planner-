@@ -9180,13 +9180,12 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1131)
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
- 
-</details>
+ </details>
  </details>
   </details>
 
   
-<details>
+ <details>
  
   <summary>Android 11</summary><br>
 
