@@ -8094,7 +8094,8 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
 
 
  <details>
-    <summary>Poco X3 NFC</summary>
+  
+   <summary>Poco X3 NFC</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/6002e6ce-507f-4767-b75b-c54f14570c2c)
 
@@ -8828,8 +8829,9 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
 </details>
  </details>
 
-<details>   
-    <summary>Infinix HOT 30</summary> 
+<details>
+ 
+   <summary>Infinix HOT 30</summary> 
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/77376cad-4fa2-4e3f-8fd2-4de8d8af9a97)
 
