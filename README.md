@@ -1328,6 +1328,7 @@
 
 
 <details>
+ 
    <summary>Redmi Note 11 Pro</summary>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/776f24f5-6afd-4ae0-a97f-ae4756984d66)
@@ -2174,8 +2175,9 @@ queued-work-looper:
  </details>
 
 
-  <details>   
-    <summary>Redmi Note 11 Pro 5G</summary> 
+  <details>
+   
+   <summary>Redmi Note 11 Pro 5G</summary> 
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/ff8a189c-5a06-454e-8c15-13551d8704c9)
 
@@ -2543,7 +2545,8 @@ queued-work-looper:
  </details>
 
  <details>
-    <summary>Redmi Note 10 Pro</summary>
+  
+   <summary>Redmi Note 10 Pro</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/5341a189-ca1b-43e3-85e3-81a7ef5feae3)
 
@@ -6014,14 +6017,12 @@ queued-work-looper-data:
        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1131)
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
-
-
 </details>
    </details>
 
   <details>
 
-<summary>Galaxy S22 Ultra</summary> :iphone:
+   <summary>Galaxy S22 Ultra</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/176b5bf6-7e25-47b7-af88-9b1272866a0b)
 
