@@ -14,7 +14,7 @@
 
 <details>
  
-  <summary>Android 13</summary><br>          
+  <summary>Android 13</summary><br>                                                
 
   <details>
  
