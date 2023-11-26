@@ -8093,7 +8093,7 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
  </details>
 
 
- <details>
+  <details>
   
    <summary>Poco X3 NFC</summary>
 
