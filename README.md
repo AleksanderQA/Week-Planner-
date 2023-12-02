@@ -12452,7 +12452,7 @@ GLThread 107440:
   
 <details>  
    
-   <summary>Redmi Note 11 Pro 5G</summary>
+   <summary>Redmi Note 11 Pro 5G</summary><br>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/79792b05-e8e3-4d4f-a6c3-c316e2ca9cfb)
 
@@ -12883,7 +12883,7 @@ GLThread 107440:
 
 
    
-   <summary>Galaxy S23 Ultra</summary>
+   <summary>Galaxy S23 Ultra</summary><br>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/fadadb6b-768b-49dd-a731-31e696aaff40)
 
@@ -13307,7 +13307,7 @@ GLThread 107440:
 
 <details>  
    
-   <summary>Galaxy S22 Ultra</summary>
+   <summary>Galaxy S22 Ultra</summary><br>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/105e5e21-46eb-459b-bf16-9cadb62eae19)
 
@@ -13733,7 +13733,7 @@ GLThread 107440:
 
 <details>  
    
-   <summary>Galaxy S21 Ultra 5G</summary>
+   <summary>Galaxy S21 Ultra 5G</summary><br>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/afaf9ac4-4933-43b8-9bf2-c59754fc7b5c)
 
@@ -14059,7 +14059,7 @@ GLThread 107440:
 
 <details>  
    
-   <summary>Galaxy S21 5G</summary>
+   <summary>Galaxy S21 5G</summary><br>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/1780ddb2-861d-4491-b41a-e602ce842497)
 
@@ -14505,7 +14505,7 @@ GLThread 107440:
 
 <details>
 
-  <summary>Android 12</summary>
+  <summary>Android 12</summary><br>
 
   <details>
  
@@ -14521,7 +14521,7 @@ GLThread 107440:
 
 
    
-   <summary>Galaxy Note10+</summary>
+   <summary>Galaxy Note10+</summary><br>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/2321e8bd-a500-461b-a7cf-f622e0edd374)
 
