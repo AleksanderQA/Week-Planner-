@@ -9832,6 +9832,7 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
 <details>
  
   <summary>Android 10</summary><br>
+___  
 
   <details>
  
@@ -12425,7 +12426,7 @@ GLThread 107440:
        at java.lang.Daemons$FinalizerWatchdogDaemon.runInternal(Daemons.java:321)
        at java.lang.Daemons$Daemon.run(Daemons.java:139)
        at java.lang.Thread.run(Thread.java:919)
- ___
+ 
 </details>
  </details>
   </details>
