@@ -16249,9 +16249,10 @@ GLThread 107440:
 </details> 
  </details>
   </details>
+  
 <details>
 
-  <summary>Android 11</summary>
+  <summary>Android 11</summary><br>
 
   <details>
  
@@ -16265,7 +16266,7 @@ GLThread 107440:
 <details>  
 
    
-   <summary>Mi Note 10</summary>
+   <summary>Mi Note 10</summary><br>
     
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/12ab9a28-b697-4f3f-a31d-0b5f25f0d580)
 
