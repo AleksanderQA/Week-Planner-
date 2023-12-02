@@ -9832,7 +9832,7 @@ Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to 
 <details>
  
   <summary>Android 10</summary><br>
-___  
+
 
   <details>
  
