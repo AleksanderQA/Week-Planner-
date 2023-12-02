@@ -12430,9 +12430,8 @@ GLThread 107440:
 </details>
  </details>
   </details>
-  ___
-  
-  
+___
+
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/cda627a8-4550-4cfc-ac9c-74d99abe643a)
 
 
