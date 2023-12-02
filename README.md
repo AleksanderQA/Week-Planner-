@@ -12429,7 +12429,7 @@ GLThread 107440:
  
 </details>
  </details>
-  </details><br>
+  </details>
 
  ___ 
 
