@@ -12442,7 +12442,7 @@ GLThread 107440:
 
   <details>
  
-<summary>All devices</summary>
+<summary>Crash list</summary>
 
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9ba91182-0031-462d-ba59-4fb3d9ef9525)
 
