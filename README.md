@@ -13303,8 +13303,9 @@ GLThread 107440:
 </details> 
  </details>
 
-<details>  
 
+
+<details>  
    
    <summary>Galaxy S22 Ultr</summary>
     
