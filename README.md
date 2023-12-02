@@ -12425,11 +12425,10 @@ GLThread 107440:
        at java.lang.Daemons$FinalizerWatchdogDaemon.runInternal(Daemons.java:321)
        at java.lang.Daemons$Daemon.run(Daemons.java:139)
        at java.lang.Thread.run(Thread.java:919)
- 
+ ___
 </details>
  </details>
   </details>
-___
   
 ![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/cda627a8-4550-4cfc-ac9c-74d99abe643a)
 
