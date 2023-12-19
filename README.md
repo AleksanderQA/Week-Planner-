@@ -3,11 +3,10 @@
 
 
 # ![Android_robot svg](https://github.com/UserQA07/Week-Planner-/assets/144763744/5613d4b9-b88f-4c1f-84d3-6af9dae0e2ac)
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/15a70dde-1ae8-46a9-b673-d2b842cf9844)
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9285a8ae-1f77-47eb-8297-9fbf90873140)
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/9719cde5-c799-46da-a896-0c2004b4f414)
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/89e3629f-d356-447d-9a5c-a32318a35c80)
-
+![1](https://github.com/UserQA07/Week-Planner-/assets/144763744/377167d3-ec9b-41af-98c8-b4edd305b77e)
+![2](https://github.com/UserQA07/Week-Planner-/assets/144763744/d4d6ef69-51f6-4d21-bca4-55d3a88b0e6d)
+![3](https://github.com/UserQA07/Week-Planner-/assets/144763744/4e9f6048-a608-4d48-b91c-57c5304d26dc)
+![4](https://github.com/UserQA07/Week-Planner-/assets/144763744/7ac016a5-8390-4797-add6-1bcba390d232)
 
 
 
@@ -12432,7 +12431,7 @@ GLThread 107440:
 
  ___ 
 
-![image](https://github.com/UserQA07/Week-Planner-/assets/144763744/cda627a8-4550-4cfc-ac9c-74d99abe643a)
+![5](https://github.com/UserQA07/Week-Planner-/assets/144763744/7498f55d-2961-45c3-b830-b5037f6bf6f8)
 
 
 <details>
