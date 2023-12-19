@@ -5370,7 +5370,7 @@ queued-work-looper:
        at java.util.TimerThread.mainLoop(Timer.java:534)
        at java.util.TimerThread.run(Timer.java:513)
 
-queued-work-looper-data:
+# queued-work-looper-data:
        at jdk.internal.misc.Unsafe.park(Unsafe.java)
        at java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
        at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
@@ -6017,8 +6017,8 @@ queued-work-looper-data:
        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1131)
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
        at java.lang.Thread.run(Thread.java:1012)
-</details>
-   </details>
+ </details>
+  </details>
 
   <details>
 
