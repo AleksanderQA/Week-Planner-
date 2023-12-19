@@ -6108,7 +6108,7 @@ queued-work-looper:
        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
        at java.lang.Thread.run(Thread.java:1012)
 
-RealmFinalizingDaemon:
+# RealmFinalizingDaemon:
        at java.lang.Object.wait(Object.java)
        at java.lang.Object.wait(Object.java:442)
        at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:203)
@@ -7713,10 +7713,9 @@ RealmFinalizingDaemon:
        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.java:225)
        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.java:225)
  
- </details>
+</details>
 
 ![Screenshot 2023-11-18 230335](https://github.com/UserQA07/Week-Planner-/assets/144763744/744e60f2-79e7-46cb-9635-7fe49d3973cd)
-
 
 <details>
  
@@ -7730,7 +7729,7 @@ RealmFinalizingDaemon:
 # Session: 65523E30015D0001413C74F23454FD50_DNE_0_v2
 # Date: Mon Nov 13 2023 21:53:30 GMT+0200 (Eastern European Standard Time)
 
-Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to open file at path '/data/data/com.weeklyplannerapp.weekplan/13.11.2023 20:53': No space left on device (/data/data/com.weeklyplannerapp.weekplan/13.11.2023 20:53) in /tmp/realm-java/realm/realm-library/src/main/cpp/io_realm_internal_OsSharedRealm.cpp line 404
+# Fatal Exception: io.realm.exceptions.RealmError: Unrecoverable error. Failed to open file at path '/data/data/com.weeklyplannerapp.weekplan/13.11.2023 20:53': No space left on device (/data/data/com.weeklyplannerapp.weekplan/13.11.2023 20:53) in /tmp/realm-java/realm/realm-library/src/main/cpp/io_realm_internal_OsSharedRealm.cpp line 404
        at io.realm.internal.OsSharedRealm.nativeWriteCopy(OsSharedRealm.java)
        at io.realm.internal.OsSharedRealm.writeCopy(OsSharedRealm.java:38)
        at io.realm.BaseRealm.writeCopyTo(BaseRealm.java:1)
