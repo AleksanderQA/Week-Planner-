@@ -7713,7 +7713,7 @@ RealmFinalizingDaemon:
        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.java:225)
        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.java:225)
  
-</details>
+ </details>
 
 ![Screenshot 2023-11-18 230335](https://github.com/UserQA07/Week-Planner-/assets/144763744/744e60f2-79e7-46cb-9635-7fe49d3973cd)
 
